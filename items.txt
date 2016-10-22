@@ -1,0 +1,1 @@
+{'124220125476814848': {'Flamewreathed Faceless': 10, 'Gayness': 45}, '115569858724233216': {'Flamewreathed Faceless': 871, 'hat7': 1, 'Gayness': 5, 'hat5': 1}, '128874748041101312': {'Gayness': 50, 'Flamewreathed Faceless': 69, 'hat': 0, 'hat4': 1, 'hat3': 1}}
